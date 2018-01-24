@@ -33,5 +33,18 @@ header p {
   text-decoration: underline;
 }
 
-footer {
+footer{
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+
+.underline {
+  text-decoration: underline;
+  font-size: 18px;
+}
+
+.copyright {
+  font-size: 11px;
+  text-decoration:
 }
